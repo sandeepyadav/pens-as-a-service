@@ -3,7 +3,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-## Workshop Slides
+### Workshop Slides
 
 [Slides](https://logandonley.github.io/presentations/dw-codeship/)
 
